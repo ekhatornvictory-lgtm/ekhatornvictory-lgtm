@@ -26,8 +26,8 @@ When I'm not working with data, I enjoy Watching or playing football, listening 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Advanced Python for Data Science]
+- Machine learning techniques in Scikit-learn.
+-  Advanced Python for Data Science
 
 ## 🛠️ Technical Skillset
 
