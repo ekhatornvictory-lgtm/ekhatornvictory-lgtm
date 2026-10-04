@@ -17,7 +17,7 @@ I am an Industrial Chemist who has ventured into Data Analytics, combining a str
 
 When I'm not working with data, I enjoy Watching or playing football, listening to music and Watching movies. 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website] ([https://your-username.github.io/](https://ekhatornvictory-lgtm.github.io/))
+### [🏆 Check Out My Full Portfolio Website] ((https://ekhatornvictory-lgtm.github.io/))
       
 ## 🔭 What I'm Currently Working On 
 
