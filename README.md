@@ -21,13 +21,13 @@ When I'm not working with data, I enjoy Watching or playing football, listening 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [KPI Dashboard tracking Cash flow, Profit and Revenue in Excel.]  
-- **Project B:** [Track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers. dashboard in Power BI.]
+- **Project A:** KPI Dashboard tracking Cash flow, Profit and Revenue in Excel.  
+- **Project B:** Track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers. dashboard in Power BI.
 
 ## 🌱 Currently Learning 
 
 - Machine learning techniques in Scikit-learn.
--  Advanced Python for Data Science
+- Advanced Python for Advance Data Analysis
 
 ## 🛠️ Technical Skillset
 
@@ -36,8 +36,8 @@ When I'm not working with data, I enjoy Watching or playing football, listening 
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Python-Intermediate-E97627?style=flat&logo=Python&logoColor=white" alt="Python Skill Badge">
 </p>
